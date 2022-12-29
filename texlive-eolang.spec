@@ -1,5 +1,5 @@
 Name:		texlive-eolang
-Version:	65006
+Version:	65289
 Release:	1
 Summary:	Formulas and graphs for the EO programming language
 Group:		Publishing
