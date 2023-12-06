@@ -1,6 +1,6 @@
 Name:		texlive-eolang
-Version:	65289
-Release:	2
+Version:	67897
+Release:	1
 Summary:	Formulas and graphs for the EO programming language
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eolang
