@@ -3,7 +3,7 @@ Version:	69274
 Release:	1
 Summary:	Formulas and graphs for the EO programming language
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eolang
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/eolang
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eolang.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eolang.doc.r%{version}.tar.xz
