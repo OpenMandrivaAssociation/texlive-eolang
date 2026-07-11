@@ -14,8 +14,6 @@ Source1:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/eolang.doc.r%{tl
 Source2:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/eolang.source.r%{tl_revision}.tar.xz
 BuildArch:	noarch
 BuildSystem:	texlive
-BuildRequires:	texlive-tlpkg
-%texlive_base_requires
 Requires:	texlive(adjustbox)
 Requires:	texlive(amsfonts)
 Requires:	texlive(amsmath)
