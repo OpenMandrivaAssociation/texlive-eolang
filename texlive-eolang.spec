@@ -1,5 +1,6 @@
 %global tl_name eolang
 %global tl_revision 79525
+%global tl_bin_links eolang:%{_texmfdistdir}/scripts/eolang/eolang.pl
 
 Name:		texlive-%{tl_name}
 Epoch:		1
@@ -28,6 +29,8 @@ Requires:	texlive(pgfopts)
 Requires:	texlive(stmaryrd)
 Requires:	texlive(xstring)
 Provides:	texlive(%{tl_name}) = %{tl_revision}
+Provides:	texlive(%{tl_name}.bin) = %{tl_revision}
+Provides:	texlive-%{tl_name}.bin = %{EVRD}
 
 %description
 This package helps you format expressions of [?] -calculus and draw SODG
